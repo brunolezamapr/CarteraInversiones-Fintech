@@ -4,7 +4,7 @@ if __name__ == "__main__":
     from Portafolio import Portafolio
 
     print("\n" + "=" * 60)
-    print("PRUEBA EJERCICIO 3: PORTAFOLIO Y ACCIONES")
+    print("PRUEBA")
     print("=" * 60)
 
     a1 = Accion(precio_actual=150.0, ticker="AAPL", cantidad=10)
