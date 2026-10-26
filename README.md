@@ -251,9 +251,9 @@ if __name__ == "__main__":
     except ValueError as err:
         print(f"[ÉXITO] Captura de precio negativo en la acción: {err}")
 ```
-
+# 🧪 Salida Esperada al Ejecutar
 ```python
-🧪 Salida Esperada al Ejecutar
+
 Plaintext
 ============================================================
 PRUEBA EJERCICIO 3: PORTAFOLIO Y ACCIONES (FINTECH)
