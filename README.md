@@ -251,6 +251,8 @@ if __name__ == "__main__":
     except ValueError as err:
         print(f"[ÉXITO] Captura de precio negativo en la acción: {err}")
 ```
+
+```python
 🧪 Salida Esperada al Ejecutar
 Plaintext
 ============================================================
